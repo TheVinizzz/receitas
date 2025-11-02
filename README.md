@@ -2,6 +2,8 @@
 
 Sistema completo para gerenciamento de receitas culinárias desenvolvido com Laravel 12, Vue.js 3 e MySQL.
 
+![Sistema RecipeHub](https://iili.io/KLzxCGe.png)
+
 ## 📋 Índice
 
 - [Sobre o Projeto](#sobre-o-projeto)
@@ -83,7 +85,7 @@ O projeto é executado inteiramente via Docker. Todo o ambiente é configurado a
 ### 1. Clone o repositório
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/TheVinizzz/receitas
 cd recipe-management-system
 ```
 
